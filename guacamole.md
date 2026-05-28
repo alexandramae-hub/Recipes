@@ -7,3 +7,4 @@
 * onions - $3
 * tomatoes - $2
 ## Instructions
+1) Dice the avocado and tomatoes into chunks
