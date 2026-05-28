@@ -6,4 +6,6 @@
 * cilantro  - $2
 * onions - $3
 * tomatoes - $2
-## Instructions
+## Instruction
+1) Add avocado to bowl
+2) Mix ingredients
