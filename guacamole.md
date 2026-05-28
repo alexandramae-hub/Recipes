@@ -1,9 +1,9 @@
 # Guacamole
 ## Ingredients
-* avocado
-* lime
-* pepper
-* cilantro
-* onions
-* tomatoes
+* avocado - $2  
+* lime  - $1
+* pepper  - $1
+* cilantro  - $2
+* onions - $3
+* tomatoes - $2
 ## Instructions
