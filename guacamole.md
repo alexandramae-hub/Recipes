@@ -2,7 +2,7 @@
 ## Ingredients
 * avocado
 * lime
-* salt
+* pepper
 * cilantro
 * onions
 * tomatoes
